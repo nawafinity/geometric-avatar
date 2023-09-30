@@ -10,7 +10,7 @@
 
   [Changelog](./CHANGELOG.md)
 
-  [العربية](./README-ar.md)
+  [العربية](./docs/README-ar.md)
 
 </div>
 
