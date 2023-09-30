@@ -8,15 +8,20 @@
 
   `geometric-avatar` is a Go package that effortlessly generates captivating geometric pattern avatars based on email hashes.
 
-  [Changelog](./CHANGELOG.md)
+<br class="badge-separator" />
+<span class="badge-githubsponsors"><a href="https://github.com/sponsors/nawafscript" title="Donate to this project using GitHub Sponsors"><img src="https://img.shields.io/badge/github-donate-blue.svg" alt="GitHub Sponsors donate button" /></a></span>
+<span class="badge-githubsponsors"><a href="https://ko-fi.com/nawafinity" title="Donate to this project using GitHub Sponsors"><img src="https://img.shields.io/badge/Ko--fi-donate-%23ff69b4" alt="GitHub Sponsors donate button" /></a></span>
 
-  [العربية](./docs/README-ar.md)
+
+  [Changelog](./CHANGELOG.md) |   [العربية](./docs/README-ar.md)
+
+
 
 </div>
 
 ## Features
 - ✅ **Simplicity & Ease**: Straightforward and effortless to use.
-- 🎨 **Customizability**: Tailor avatars to your preference with a range of customization options.
+- 🎨 **Customizable**: Tailor avatars to your preference with a range of customization options.
 - 🆙 **Golang v1.27 Compatibility**: Developed and optimized for Golang version 1.27.
 
 ## Installation
@@ -24,7 +29,7 @@
 To integrate the package, utilize `go get`:
 
 ```bash
-go get github.com/yourusername/geometric-avatar
+go get github.com/nawafinity/geometric-avatar
 ```
 
 ## Usage

@@ -6,13 +6,18 @@
 
 <h1 align="center">صورة رمزية بطابع هندسي</h1>
 
-<div align="center">
+<div align="center" dir="rtl">
 
-`geometric-avatar` هي حزمة برامج مكتوبة بلغة Go تولّد بسهولة صورًا جذّابة للملفات الشخصية بناءً على تشفير البريد الإلكتروني.
+هي حزمة برامج مكتوبة بلغة Go تولّد بسهولة صورًا جذّابة للملفات الشخصية بناءً على تشفير البريد الإلكتروني.
 
-[سجل التغييرات](../CHANGELOG.md)
+<br class="badge-separator" />
+<span class="badge-githubsponsors"><a href="https://github.com/sponsors/nawafscript" title="Donate to this project using GitHub Sponsors"><img src="https://img.shields.io/badge/github-donate-blue.svg" alt="GitHub Sponsors donate button" /></a></span>
+<span class="badge-githubsponsors"><a href="https://ko-fi.com/nawafinity" title="Donate to this project using GitHub Sponsors"><img src="https://img.shields.io/badge/Ko--fi-donate-%23ff69b4" alt="GitHub Sponsors donate button" /></a></span>
 
-[English](../README.md)
+
+[سجل التغييرات](../CHANGELOG.md) | [English](../README.md)
+
+
 
 </div>
 
@@ -26,7 +31,7 @@
 لتثبيت الحزمة، استخدم الأمر `go get`:
 
 ```bash
-go get github.com/yourusername/geometric-avatar
+go get github.com/nawafinity/geometric-avatar
 ```
 
 ## الاستخدام
@@ -76,7 +81,7 @@ func main() {
 
 ## الترخيص
 
-[رخصة MIT](./LICENSE.md)
+[رخصة MIT](../LICENSE.md)
 
 
 </div>
